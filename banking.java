@@ -6,7 +6,6 @@ class account{
     int acc_no;
     String name;
     float amount;
-    boolean hasMoney = true;
     public account(int acc_no, String name, float amount){
         this.acc_no = acc_no;
         this.name = name;
